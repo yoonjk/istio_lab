@@ -1,2 +1,2 @@
 # istio_lab
-Istio lab
+Service Mesh Istio lab
